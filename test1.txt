@@ -6,3 +6,4 @@ print(test3)
 
 def b3():
 print(b3)
+print(b3)
