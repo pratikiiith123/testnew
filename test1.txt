@@ -1,3 +1,9 @@
 def test1():
 	print(test1)
 	print(test2)
+<<<<<<< HEAD
+=======
+
+def test2():
+	print(test2)
+>>>>>>> b2
