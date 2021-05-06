@@ -11,6 +11,10 @@ print(b4)
 
 def b3():
 check
+<<<<<<< HEAD
 check123
+=======
+
 
 def b4():
+>>>>>>> b3
