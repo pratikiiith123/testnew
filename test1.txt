@@ -11,3 +11,6 @@ print(b4)
 
 def b3():
 check
+
+
+def b4():
